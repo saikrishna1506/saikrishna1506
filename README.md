@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saikrishna1506
 - 👀 I’m interested in problem solving.
-- 🌱 I’m currently learning c language.
-- 💞️ I’m looking to collaborate on anything.
+- 💞️ I’m looking to collaborate on FullStack Development.
 - 📫 How to reach me -saikrishnachintha06@gmail.com
 
 <!---
