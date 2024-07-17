@@ -2,36 +2,39 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SAI+KRISHNA!;" />
 </h1>
 
-<h3 align="center">A passionate software developer</h3>
+<!-- Background Image -->
 
-<br/>
 
-<div align="center">
- 
- 🌟 About Me:
-* I'm passionate about problem-solving and enjoy tackling complex challenges.
-* I have a keen interest in FullStack Development and constantly strive to expand my skills in this area.
+<!-- Text Content -->
+<h3 align="center" style="margin-top: -50px; color: white; text-shadow: 2px 2px 4px #000000;">A passionate software developer</h3>
 
-💼 Looking to Collaborate On:
-* FullStack Development projects where I can contribute my expertise and learn from others.
-* Exciting and innovative projects that push the boundaries of technology.
+<div align="center" style="color: white; background: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px; margin-top: -30px;">
 
-📫 How to Reach Me:
-Email: saikrishnachintha06@gmail.com
+  <p>🌟 <strong>About Me:</strong></p>
+  <ul style="list-style-type: none; padding: 0; margin: 0;">
+    <li>I'm passionate about problem-solving and enjoy tackling complex challenges.</li>
+    <li>I have a keen interest in FullStack Development and constantly strive to expand my skills in this area.</li>
+  </ul>
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:saikrishnachintha06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/sai-krishna123321" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-<!--   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  
+  <p>💼 <strong>Looking to Collaborate On:</strong></p>
+  <ul style="list-style-type: none; padding: 0; margin: 0;">
+    <li>FullStack Development projects where I can contribute my expertise and learn from others.</li>
+    <li>Exciting and innovative projects that push the boundaries of technology.</li>
+  </ul>
+
+  <p>📫 <strong>How to Reach Me:</strong></p>
+  <p>Email: saikrishnachintha06@gmail.com</p>
+
+  <div> 
+    <a href="mailto:saikrishnachintha06@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://www.linkedin.com/in/sai-krishna123321" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </div>
 </div>
+
 
  <hr/>
  
@@ -53,11 +56,10 @@ Email: saikrishnachintha06@gmail.com
   <br/><br/><br/>
 </div>
 
+
 <hr/>
-
-
-
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+</p>
 
 <br/>
