@@ -11,7 +11,7 @@ Exciting and innovative projects that push the boundaries of technology.
 📫 How to Reach Me:
 Email: saikrishnachintha06@gmail.com
 
-![Snake animation](https://github.com/saikrishna1506/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/saikrishna1506/saikrishna1506/blob/output/github-contribution-grid-snake.svg)
 <!---
 saikrishna1506/saikrishna1506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
